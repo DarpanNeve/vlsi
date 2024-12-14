@@ -1,0 +1,35 @@
+VERSION 12/12/2024 7:40:39 PM
+FIG #C:\Users\Admin\Desktop\All Files\College\SEM 7\VLSI\practical\Outputs\Final Output\CMOS inverter with load.MSK
+BB(35,7,91,57)
+SIMU #2.00
+REC(35,35,24,22,NW)
+REC(48,41,5,10,DP)
+REC(41,41,5,10,DP)
+REC(48,11,5,10,DN)
+REC(41,11,5,10,DN)
+REC(50,48,2,2,CO)
+REC(42,12,2,2,CO)
+REC(50,12,2,2,CO)
+REC(50,42,2,2,CO)
+REC(42,48,2,2,CO)
+REC(42,42,2,2,CO)
+REC(42,18,2,2,CO)
+REC(50,18,2,2,CO)
+REC(46,8,2,46,PO)
+REC(41,7,4,14,ME)
+REC(41,41,4,14,ME)
+REC(49,11,4,40,ME)
+REC(46,41,2,10,DP)
+REC(46,11,2,10,DN)
+RLCC 51 31 56 31 1 #0.01
+TITLE 43 53  #Vdd
+$1 1000 0 
+TITLE 43 8  #Vss
+$0 1000 0 
+TITLE 57 55  #Vdd
+$1 1000 0 
+TITLE 47 30  #gate
+$c 1000 0 0.0900 0.1000 0.1900 0.2000 
+TITLE 51 26  #Y
+$v 1000 0 
+FFIG C:\Users\Admin\Desktop\All Files\College\SEM 7\VLSI\practical\Outputs\Final Output\CMOS inverter with load.MSK
